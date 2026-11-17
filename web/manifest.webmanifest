@@ -1,0 +1,18 @@
+{
+  "name": "CFOP Cubers",
+  "short_name": "CFOP Cubers",
+  "description": "Practice all 119 CFOP cases and time your solves.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1118",
+  "theme_color": "#0b1118",
+  "icons": [
+    {
+      "src": "./cube-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
